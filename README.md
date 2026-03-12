@@ -171,3 +171,7 @@ make docker-build
 # Run in Docker
 docker run -v /var/log/suricata:/var/log/suricata eve-streamer
 ```
+
+Special Thanks to Raptor-mini AI Agent within VSCode for the strong start on eve-streamer, Gemini, ChatGPT and Claude also helped.
+
+Arapt.us | Ben Gilbert
